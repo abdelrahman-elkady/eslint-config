@@ -1,6 +1,6 @@
 {
   "name": "@abdelrahman-elkady/eslint-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "My own eslint configuration",
   "main": "index.js",
   "repository": {
