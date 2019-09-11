@@ -1,4 +1,4 @@
-My own flavor of ESLint, extending airbnb-base
+My own flavor of ESLint, extending `airbnb-base` configuration.
 
 ## Installation
 
