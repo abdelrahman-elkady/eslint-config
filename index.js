@@ -18,5 +18,12 @@ module.exports = {
       ignoreStrings: true,
       ignoreTemplateLiterals: true,
     }],
+
+    'no-underscore-dangle': ['error', {
+      allow: ['_id'],
+      allowAfterThis: false,
+      allowAfterSuper: false,
+      enforceInMethodNames: true,
+    }],
   }
 };
