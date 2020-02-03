@@ -25,5 +25,7 @@ module.exports = {
       allowAfterSuper: false,
       enforceInMethodNames: true,
     }],
+
+    'import/prefer-default-export': ['off']
   }
 };
